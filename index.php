@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>
+Ingredients
+</title>
+</head>
+<body>
+<p>generated</p>
+</body>
+</html>

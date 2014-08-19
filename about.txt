@@ -6,3 +6,8 @@ based on their ingredients and the cost per unit of them.
 Out put in csv file format for tabulation in spreadsheet
 Print energy and nutrition levels on a label/labels.
 separate admin and user levels
+
+
+Cost reports go in reports directory as csv files
+images stored in images directory
+labels generatated pdfs stored here
